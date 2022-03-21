@@ -8,3 +8,19 @@ Step 1 is Nutrition Checking Tool For the Nutritional Checking tool: In the firs
 Step 2 is Nutrition Searching Engine. For the Nutritional Searching Engine: The user can easily find out the information of Vitamins or Minerals through this step and the program has the suggestion of the raw fruits or vegetables contain that vitamin/mineral. The program also shows us the roles that vitamin/mineral plays in our body.
 
 The purpose of this project is to provide nutrition data tools to help users to get an overview of their daily nutrition and create a better diet. All data is sourced from the USDA Food Data Central. My vision and commitment for this project are to provide high-quality data and easy-to-use tools
+
+Reference: 
+
+1.	FDA https://www.fda.gov/food/food-labeling-nutrition/raw-fruits-poster-text-version-accessible-version
+
+2.	Harvard.edu https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
+
+3.	https://www.choosemyplate.gov/eathealthy/fruits/fruit-group-food-gallery
+
+4.	Nutrition.gov https://www.nutrition.gov/
+
+5.	FDA https://www.natrol-llc.com/FDA-Vitamin-Mineral-Chart.pdf
+
+6.	https://www.pureencapsulations.com/media/17_10_ATR-HCP-OnePgr_LabelRef_hlfpg_FIN.pdf
+
+7.	https://familydoctor.org/vitamins-and-minerals-how-to-get-what-you-need/
